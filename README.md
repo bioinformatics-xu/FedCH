@@ -92,3 +92,20 @@ Here is explanation of parameter for function `get_partition_dict()`.
 | `logdir` | The path to store the logs. |
 | `beta` | The concentration parameter of the Dirichlet distribution for heterogeneous partition. |
 
+
+## Cite
+This project is developed based on Non-NllD, if you find this repository useful, please cite paper:
+```
+
+```
+
+## Developor
+
+Xiaolu Xu (lu.xu@lnnu.edu.cn)
+
+Yulong Li (liyulong20000810@163.com)
+
+School of Computer and Artificial Intelligence 
+
+Liaoning Normal University
+
